@@ -1,0 +1,6 @@
+https://www.mathworks.com/discovery/fpga-image-processing.html ( what is image processing on FPGA ? ) 
+https://www.youtube.com/watch?v=4WwUw7aAp3I (How IMAGE PROCESSING WORK)
+https://community.element14.com/challenges-projects/design-challenges/summer-of-fpga/b/blog/posts/number-plate-recognition-4-loading-an-image-to-fpga (DETECT PLATE)
+https://www.fpga4student.com/2016/11/image-processing-on-fpga-verilog.html?m=1&fbclid=IwAR0_tFG1aj6y8Gk4VLSPpsE_D0Jq2DuzwdBNjs4L9cOJqpwQpDGZ6cyIX5o ( SOURCE CODE FOR IMAGE PROCESSING THRESZHOLD,gGRAyscale,...)
+https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/TUDELFT/FIP2_3.pdf (Learn more about image processing) ( THeory)
+https://github.com/Sborzguilherme/Architecture-of-FPGA-based-Systems-for-Digital-Image-Processing (plate processing) 
